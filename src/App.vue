@@ -1,9 +1,11 @@
 <script setup>
-import Navbar from './components/Navbar.vue';
+import HeroSection from './components/HeroSection.vue';
+import TimeLine from './components/TimeLine.vue';
 </script>
 
 <template>
- <Navbar />
+ <HeroSection />
+ <TimeLine />
 </template>
 
 <style>
