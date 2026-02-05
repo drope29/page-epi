@@ -45,7 +45,7 @@ onUnmounted(() => {
             </h1>
 
             <p class="mt-2 text-slate-500 font-sans text-sm md:text-base uppercase tracking-[0.4em] font-medium">
-                Gerenciado Suas Entregas
+                Gerenciando Suas Entregas
             </p>
 
             <div class="h-[3px] bg-green-600 rounded-full mt-8 transition-all duration-75 ease-linear min-w-[50px]"
@@ -54,11 +54,6 @@ onUnmounted(() => {
             <div class="mt-12">
                 <ButtonContact />
             </div>
-
-            <div class="absolute bottom-8 text-slate-400 text-xs tracking-widest uppercase">
-                © 2026 PJ Solutions.
-            </div>
-
         </section>
 
 </main></template>
